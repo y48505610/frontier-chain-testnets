@@ -1,0 +1,5 @@
+{"type":"cosmos-sdk/StdTx","value":{"msg":[{"type":"cosmos-sdk/MsgCreateValidator","value":{"description":{"moniker":"yesaynow","identity":"","website":"","security_contact":"","details":""},"commission":{
+"rate":"0.100000000000000000","max_rate":"0.200000000000000000","max_change_rate":"0.010000000000000000"},"min_self_delegation":"1","delegator_address":"front188asxkupamkszw50ytsnaqzghlwyhx3uzr3kk6","valid
+ator_address":"frontvaloper188asxkupamkszw50ytsnaqzghlwyhx3ukvrcl2","pubkey":"frontvalconspub1zcjduepq37y6j6m83uxr9kgse3tfj5td4vejt5a8hleyv3fukzuwrz0x5mps5fdzw4","value":{"denom":"front","amount":"10000000
+00000"}}}],"fee":{"amount":[],"gas":"200000"},"signatures":[{"pub_key":{"type":"tendermint/PubKeySecp256k1","value":"At8NGFG/VVS/QsDM770A3L0Vm4XyNimX/jRK1bsSdMDp"},"signature":"gmC1qrYhCnyZCC2YdYZxc2XF7Tik
+kBjwlhGPyXq4OzhW5FpNAMlrMMnHJeTZw60xE7FtFcQLUNLPSauNDLVhrQ=="}],"memo":"4482b1738081b70a81892c0a8d8fa944c5944558@10.138.0.3:26656"}}
