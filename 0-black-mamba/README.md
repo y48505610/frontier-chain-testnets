@@ -20,7 +20,7 @@ __Note__: Requires golang 1.15+ (https://golang.org/doc/install)
 
 ```
 # clone the frontier chain repo
-git clone git@github.com:frontierdotxyz/frontier.git
+git clone git@github.com:frontierdotxyz/frontier-chain.git
 # install
 cd frontier && git checkout v0.1.0 && make install
 
