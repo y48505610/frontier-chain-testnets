@@ -1,0 +1,11 @@
+{"type":"cosmos-sdk/StdTx","value":{"msg":[{"type":"cosmos-sdk/MsgCreateValidator","value":{"description":{"moniker":"BigBadaBum","identity":"","website":"","security_contact":"","details":""},"commission":{"rate":"0.100000000000000000","max_rate":"0.200000000000000000","max_change_rate":"0.010000000000000000"},"min_self_delegation":"1","delegator_address":"front1g0w75e5cdw56474xse99kzytqz4dp3dw7xy29w","validator_address":"frontvaloper1g0w75e5cdw56474xse99kzytqz4dp3dw2fkyv7","pubkey":"frontvalconspub1zcjduepq334xkks46z93qxstmkxnh94j72cl6tdh8mqnuedfevxq286dghfqdqzfpm","value":{"denom":"front","amount":"1000000000000"}}}],"fee":{"amount":[],"gas":"200000"},"signatures":[{"pub_key":{"type":"tendermint/PubKeySecp256k1","value":"Ao6PUQn1S1q9NUo+LK3Pc4Syr+YZoVvNPt3ZmW0xHAgO"},"signature":"wh8J3ILfYd+h6OsTkXUkoDLv8zHQg7IJE1VEzcn51MAhMmAe6hjenIvCx9yhfncQhokOSbzhHEJsoe+KpFq9Uw=="}],"memo":"65855dbf18555171be4e27f711250bf7f7993661@207.148.79.222:26656"}}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+{
+  "type": "cosmos-sdk/StdTx",
+  "value": {
+    "msg": [
+      {
+        "type": "cosmos-sdk/MsgCreateValidator",
+        "value": {
+          "description": {
+            "moniker": "NodesGuru",
+            "identity": "",
+            "website": "",
+            "security_contact": "",
+            "details": ""
+          },
+          "commission": {
+            "rate": "0.100000000000000000",
+            "max_rate": "0.200000000000000000",
+            "max_change_rate": "0.010000000000000000"
+          },
+          "min_self_delegation": "1",
+          "delegator_address": "front104adxfzu2wcmmlqz5wqwdr8ttzn4en32742l8x",
+          "validator_address": "frontvaloper104adxfzu2wcmmlqz5wqwdr8ttzn4en3226c3wk",
+          "pubkey": "frontvalconspub1zcjduepq6dcw6y9wt0atz9r87gf27hcp42kd935cjwg8x2gau3xmwpnexahqa0w6vj",
+          "value": {
+            "denom": "front",
+            "amount": "1000000000000"
+          }
+        }
+      }
+    ],
+    "fee": {
+      "amount": [],
+      "gas": "200000"
+    },
+    "signatures": [
+      {
+        "pub_key": {
+          "type": "tendermint/PubKeySecp256k1",
+          "value": "A+M0d2bgpp6jRzevZ8u3eDC3MKvrDuaGbTf3JD4XP84n"
+        },
+        "signature": "gd3cP/B6qGg36lqpTAbrDXbgeJ4zMsDFPFA9ChA5EFMHLDuzGp/ECQ4WAzEK5+TA3nbuwlx26YfC2tlgdVM/fQ=="
+      }
+    ],
+    "memo": "8e7bfd2b77b7df61b8353535b013dd7a99c951d7@10.156.0.2:26656"
+  }
+}
