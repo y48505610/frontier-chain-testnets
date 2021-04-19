@@ -1,0 +1,5 @@
+{"type":"cosmos-sdk/StdTx","value":{"msg":[{"type":"cosmos-sdk/MsgCreateValidator","value":{"description":{"moniker":"sbigsir","identity":"","website":"","security_contact":"","details":""},"commission":{"rate":"0.1000000000000000
+00","max_rate":"0.200000000000000000","max_change_rate":"0.010000000000000000"},"min_self_delegation":"1","delegator_address":"front17pj33pdmtpsvdr0dctwcajxltxesxmmwpxy9vr","validator_address":"frontvaloper17pj33pdmtpsvdr0dctwcajx
+ltxesxmmw4fkt9n","pubkey":"frontvalconspub1zcjduepqcxln296q0kp6gxh67j59q6juykpj88xjdy2ykc97s0u8atp6zkssunkquk","value":{"denom":"front","amount":"1000000000000"}}}],"fee":{"amount":[],"gas":"200000"},"signatures":[{"pub_key":{"typ
+e":"tendermint/PubKeySecp256k1","value":"A3KrvfdZWFWN19cJ99sWLyLPRm/XfKubgg4/ZM9z80D3"},"signature":"Ywusd9EAqp3nV9opP4e01To736suQyMkh7DNMSSQQooNY761qWC09FWDaq0GRHF8VtGR7bS5zTl9jVLYNj3okA=="}],"memo":"24abe17d361f9335778d681abcb95
+71fef9e9d18@10.170.0.5:26656"}}
