@@ -1,0 +1,11 @@
+{"type":"cosmos-sdk/StdTx","value":{"msg":[{"type":"cosmos-sdk/MsgCreateValidator","value":{
+"description":{"moniker":"my_node","identity":"","website":"","security_contact":"","details
+":""},"commission":{"rate":"0.100000000000000000","max_rate":"0.200000000000000000","max_cha
+nge_rate":"0.010000000000000000"},"min_self_delegation":"1","delegator_address":"front1ham8q
+ddy580fjuk0ns4p4x8ckw90n8ah8r9ulw","validator_address":"frontvaloper1ham8qddy580fjuk0ns4p4x8
+ckw90n8ahnvhjk7","pubkey":"frontvalconspub1zcjduepqrgldqlp2ahcht6k4qyuwp290uy7gyrfn5ewqsju84
+8tvmue04pfsjna7gu","value":{"denom":"front","amount":"1000000000000"}}}],"fee":{"amount":[],
+"gas":"200000"},"signatures":[{"pub_key":{"type":"tendermint/PubKeySecp256k1","value":"A+Fu/
+0GgO7RWSF4ei0z++ckzKBIyHZzhov3RqFBXYjDi"},"signature":"Ck/Qh0rr5rDWSjnQS8iX/lmU+CT9QY1KAb4e8
+8tPb5wydC3x+XwQA2gqL/PmbkNw6rV7UyTSbMpYLJhLxqh5Rw=="}],"memo":"5c93f7b172831875049fd6be279d7
+7686aea9db3@138.197.79.54:26656"}}

@@ -1,0 +1,59 @@
+{
+	"type": "cosmos-sdk/StdTx",
+	"value": {
+		"msg": [{
+					"type": "cosmos-sdk/MsgCreateValidat
+					or ","
+					value ":{"
+					description ":{"
+					moniker ":"
+					Vshen ","
+					identity ":"
+					","
+					website ":"
+					","
+					secur
+					ity_contact ":"
+					","
+					details ":"
+					"},"
+					commission ":{"
+					rate ":"
+					0.100000000000000000 ","
+					max_
+					rate ":"
+					0.200000000000000000 ","
+					max_change_rate ":"
+					0.010000000000000000 "},"
+					min_sel
+					f delegation ":"
+					1 ","
+					delegator address ":"
+					front1for75kczkpgsxz5f2cr80pkzzaus6gm58t
+					963 p ","
+					validator address ":"
+					frontvaloper1for75kczkpgsxz5f2cr80pkzzaus6gm5nyh5c3 ",
+					"pubkey": "frontvalconspub1zcjduepq3e0cld0qn3kttuhnxjcg0vvrln4xryj62aqv7yk3j4kq
+					s3zcqkhqqjzzms ","
+					value ":{"
+					denom ":"
+					front ","
+					amount ":"
+					1000000000000 "]}}}],"
+					fee ":{"
+					a
+					mount ":[],"
+					gas ":"
+					200000 "},"
+					signatures ":[["
+					pub_key ":["
+					type ":"
+					tendermint / PubkeySe
+					cp256k1 ","
+					value ":"
+					Awmpa6Ccl3pTOuvYG / TwT04 + vXep6ZrZhRZbc + k7dpWY ","
+					signature ":"
+					0 DjFUZgw09aUPAhFYxEiZ + B3qETiayApPh / gF30hE3Dp38bPZT / zsAyG1 / mml / Ja1mWHlGKq86b0b
+					2 Z33lA == "}],"
+					memo ":"
+					8380935 d9c3242ce6d43f480166e26cd2df034d4010 .0 .2 .15: 26656 "}

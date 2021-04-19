@@ -1,0 +1,17 @@
+{"type":"cosmos-sdk/StdTx","value":{"msg":[{"type":"cosmos
+-sdk/MsgCreateValidator","value":{"description":{"moniker"
+:"amorfatih","identity":"","website":"","security_contact"
+:"","details":""},"commission":{"rate":"0.1000000000000000
+00","max_rate":"0.200000000000000000","max_change_rate":"0
+.010000000000000000"},"min_self_delegation":"1","delegator
+_address":"front1ntgsru0244kgct94kzg23ruhjcg0k3295tz7q2","
+validator_address":"frontvaloper1ntgsru0244kgct94kzg23ruhj
+cg0k329qyssf6","pubkey":"frontvalconspub1zcjduepqmfpg42j2h
+495kzrx4r9wvmcj6qdrsa57a7wdf9l8ykl7ldlej38q9xptx5","value"
+:{"denom":"front","amount":"1000000000000"}}}],"fee":{"amo
+unt":[],"gas":"200000"},"signatures":[{"pub_key":{"type":"
+tendermint/PubKeySecp256k1","value":"A6LNcEEultltNbpJuqDpJ
+stkDCWzz3wvFvn9Z4aWCq5K"},"signature":"Qf8+HeuJB7ur5RNBr5d
+4LOdBVlisa58xBoIYhQym1MNKX5W6BXRog1lj8fxffb294O/nFOZUBQs1j
+GGIOEEXZg=="}],"memo":"e4fa4fc7110d8cb9938d866e1d9733ad5b1
+393d6@10.156.0.9:26656"}}
